@@ -2,19 +2,10 @@ h1 {
   text-align: center;
 }
 
-h2.intro {
+.intro {
   font-family: monospace;
   color: red;
   font-style: italic;
   text-align: center;
-}
-
-p.intro {
   font-style: italic;
-  color: red;
-}
-
-img.intro {
-  height: 300px;
-  width: auto;
 }
