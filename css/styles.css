@@ -9,3 +9,9 @@ h1 {
   text-align: center;
   font-style: italic;
 }
+
+
+.highlight {
+  background-color: yellow;
+  border: 1px solid black;
+}
